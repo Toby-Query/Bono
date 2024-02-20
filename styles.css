@@ -15,7 +15,7 @@ p{
         font-family: "Protest Revolution", sans-serif;
         font-weight: 400;
         font-style: normal;
-        font-size: 1rem;   
+        font-size: 1.5rem;   
 }
 
 nav{
@@ -40,7 +40,7 @@ body{
 }
 
 figure{
-    min-height: 25vh;
+    min-height: 15vh;
     width: 95%;
     margin: 10px;
     background-color: aquamarine;
