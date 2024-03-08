@@ -61,6 +61,22 @@ figcaption{
     font-size: 1.5rem;
 }
 
+img{
+    width: 100%;
+    border-radius: 10px;
+    margin: 0;
+}
+
+#pic blockquote{
+    margin: 8px;
+}
+
+#pic blockquote p{
+    margin: 10px;
+}
+
+
+
 
 
 
